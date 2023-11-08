@@ -1,3 +1,5 @@
 Branching is used in version control and software management to maintain stability while isolated changes are made to code
 
 Branching is a technique used by development teams so that different teams can work parallelly in a more efficient way without impacting each other's work
+
+Branching could be done by writing this `git checkout -b nameOfBranch`
