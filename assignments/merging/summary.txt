@@ -1,0 +1,4 @@
+Merging is command lets you take the independent lines of development created by git branch and integrate them into a single branch
+
+
+With the merge command, developers can collaborate on distinct branches to enhance or complete code, ultimately consolidating them into a single version.
