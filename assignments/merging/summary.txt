@@ -1,3 +1,0 @@
-Merging is command lets you take the independent lines of development created by git branch and integrate them into a single branch
-
-Wth Merge command Developers will work on different branches to improve code or to develop the code after completion we can merge them into a single version of the code
